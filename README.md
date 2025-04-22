@@ -1,83 +1,118 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="150" height="150" alt="Welcome GIF"/>
-  <h1>👋 Hi, I'm Heshan Witharana</h1>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="150" alt="Welcome GIF" />
+  <h1>Hi there, I'm Heshan Witharana 👋</h1>
   <h3>A Passionate Full Stack Web Developer from Sri Lanka 🇱🇰</h3>
+  <p>Tea lover ☕ | Code enthusiast 💻 | Continuous learner 📚</p>
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=heshan123vitharana&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/heshan123vitharana?label=Follow&style=social" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=heshan123vitharana&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/heshan123vitharana?label=Followers&style=social" alt="GitHub followers" />
 </p>
 
 ---
 
-### 🚀 About Me
-- 🔭 Studying at **Institute of Technology, University of Moratuwa**
-- 🌱 Currently learning **Spring Boot, React, Project Management**
-- 💬 Ask me about **HTML, CSS, Java, JavaScript**
-- 📫 Reach me at: **vitharana8000@gmail.com**
-- ⚡ Fun fact: I love exploring new tech and sipping tea while coding! ☕
+## 🚀 About Me
+
+- 🎓 IT Undergraduate @ **Institute of Technology, University of Moratuwa**
+- 💻 Passionate about Full Stack Development
+- 🌱 Currently exploring: `Spring Boot`, `React`, `Project Management`
+- 💬 Ask me about: `Java`, `HTML`, `CSS`, `JavaScript`
+- 📫 Reach me: **vitharana8000@gmail.com**
+- ⚡ Fun Fact: I love sipping tea while coding ☕
 
 ---
 
-### 🌐 Connect with Me
+## 🛠️ Skills
+
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### 🔧 Backend & Tools
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### ⚙️ Other Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+
+---
+
+## 🏅 Certifications & Badges
+
 <p align="center">
-  <a href="https://linkedin.com/in/heshan-witharana" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/heshan vitharana" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
+  <img src="https://img.shields.io/badge/Java-Programming-blue?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Responsive%20Web%20Design-freeCodeCamp-292929?style=for-the-badge&logo=freecodecamp&logoColor=green" />
+  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-Coursera-0056D2?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot%20Beginner-Udemy-A435F0?style=for-the-badge&logo=spring&logoColor=white" />
 </p>
 
----
-
-### 🛠️ Languages & Tools
 <p align="center">
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/></a>
-  <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
-  <a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/></a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/></a>
+  <img src="https://img.icons8.com/color/48/000000/certificate.png" width="30"/> Certified & Curious | <img src="https://img.icons8.com/fluency/48/trophy.png" width="30"/> Always Earning More Badges!
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heshan123vitharana&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heshan123vitharana&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heshan123vitharana&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=heshan123vitharana&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heshan123vitharana&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heshan123vitharana&layout=compact&theme=radical" />
 </p>
 
 ---
 
-### 🏆 Achievements
+## 📈 GitHub Activity
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=heshan123vitharana&theme=onedark&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=heshan123vitharana&theme=react-dark" />
 </p>
 
 ---
 
-### 📝 Latest Projects
-- **[Project Name 1](https://github.com/heshan123vitharana/project1)**: A brief description of your project (e.g., A full-stack app built with React and Spring Boot).
-- **[Project Name 2](https://github.com/heshan123vitharana/project2)**: A brief description of your project (e.g., A portfolio website using HTML, CSS, and JavaScript).
-- **[Project Name 3](https://github.com/heshan123vitharana/project3)**: A brief description of your project.
+## 📬 Contact Me
+
+<p align="center">
+  <a href="mailto:vitharana8000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/heshan-witharana"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://fb.com/heshan%20vitharana"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+</p>
 
 ---
+
+## 💼 Latest Projects
+
+- [🛠️ Project 1](https://github.com/heshan123vitharana/project1): Full-stack MERN task manager
+- [💻 Project 2](https://github.com/heshan123vitharana/project2): Responsive Portfolio using React
+- [📡 Project 3](https://github.com/heshan123vitharana/project3): Spring Boot REST API with JWT
+
+---
+
+## 🌟 Let’s Connect & Grow Together!
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&lines=Thanks+for+visiting!;Keep+Coding+%F0%9F%92%BB;Never+Stop+Learning+%F0%9F%9A%80;See+You+Again+Soon+%F0%9F%91%8B" />
+</p>
 
 <div align="center">
-  <h3>✨ Thanks for visiting my profile! Let's build something amazing together! ✨</h3>
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" />
+  <br />
+  <strong>Feel free to ⭐ my repositories and follow for more awesome content!</strong>
 </div>
