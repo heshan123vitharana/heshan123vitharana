@@ -100,7 +100,7 @@
 ## 💼 Latest Projects
 
 - [🛠️ Project 1](https://github.com/heshan123vitharana/project1): Full-stack MERN task manager
-- [💻 Project 2]([https://github.com/heshan123vitharana/project2](https://github.com/heshan123vitharana/Heshan_Witharana_Portfolio.git)): Responsive Portfolio using React
+- [💻 Project 2](https://github.com/heshan123vitharana/Heshan_Witharana_Portfolio.git): Responsive Portfolio using React
 - [📡 Project 3](https://github.com/heshan123vitharana/project3): Spring Boot REST API with JWT
 
 ---
