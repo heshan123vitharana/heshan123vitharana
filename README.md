@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="150" alt="Welcome GIF" />
-  <h1>Hi there, I'm **Heshan Witharana** 👋</h1>
+  <h1>Hi there, I'm Heshan Witharana 👋</h1>
   <h3>A Passionate Full Stack Web Developer from Sri Lanka 🇱🇰</h3>
   <p>Tea lover ☕ | Code enthusiast 💻 | Continuous learner 📚</p>
 </div>
